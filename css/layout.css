@@ -1,0 +1,5 @@
+* { font-family: Sans-Serif; }
+body { background: #fff; font-size: 12pt; }
+h1 { font-size: 200%; }
+#container { width: 60%; margin: 0 auto; min-width: 300px; }
+.copyright { margin-top: 50px; font-size: 90%; }
